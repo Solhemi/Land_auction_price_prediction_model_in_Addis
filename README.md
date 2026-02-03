@@ -10,3 +10,4 @@ The entire project follows these steps to uncover insights and build a model:-
 3. Visualize findings of Exploratory Data Analysis using built-in Python visualization libraries and Power BI.
 4. Choose a suitable Machine Learning model like (Regression, XGBoost) and train data.
 5. Test and fine tune model for minimized margins of error.
+6. Deploy, test and monitor land auction price prediction model in real-time.
